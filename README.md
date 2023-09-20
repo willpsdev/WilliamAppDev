@@ -21,7 +21,7 @@
 🚀 Apaixonado por Tecnologia
 <br/>
 
-- Entusiasta da tecnologia em busca de oportunidades emocionantes na área de programação de TI. Apaixonado por aprender, colaborar e criar soluções inovadoras para desafios tecnológicos.
+- Entusiasta da tecnologi, apaixonado por aprender, colaborar e criar soluções inovadoras para desafios tecnológicos.
   
   
-- Estou em busca de oportunidades de emprego na área de programação de TI, onde possa aplicar e aprimorar minhas habilidades técnicas, colaborar em projetos desafiadores e crescer profissionalmente. 
+- Estou em busca de oportunidades de emprego na área de programação de TI, onde possa aplicar e aprimorar minhas habilidades técnicas, colaborar e crescer profissionalmente. 
