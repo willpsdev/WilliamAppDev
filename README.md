@@ -18,10 +18,13 @@
    <img align="center" alt="jv" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 
 </div><br/>
+<div style="display: inline_block">
 🚀 Apaixonado por Tecnologia
 <br/>
 
 - Entusiasta da tecnologi, apaixonado por aprender, colaborar e criar soluções inovadoras para desafios tecnológicos.
   
   
-- Estou em busca de oportunidades de emprego na área de programação de TI, onde possa aplicar e aprimorar minhas habilidades técnicas, colaborar e crescer profissionalmente. 
+- Estou em busca de oportunidades de emprego na área de programação de TI, onde possa aplicar e aprimorar minhas habilidades técnicas, colaborar e crescer profissionalmente.
+
+ </div>
