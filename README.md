@@ -2,7 +2,7 @@
 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/william-santos-427117217/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/william)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/wL.santos17)
 
 
 
@@ -18,5 +18,7 @@
    <img align="center" alt="jv" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 
 </div><br/>
-
-Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
+🚀 Apaixonado por Tecnologia
+- Entusiasta da tecnologia em busca de oportunidades emocionantes na área de programação de TI. Apaixonado por aprender, colaborar e criar soluções inovadoras para desafios tecnológicos.
+  
+- Estou em busca de oportunidades de emprego na área de programação de TI, onde possa aplicar e aprimorar minhas habilidades técnicas, colaborar em projetos desafiadores e crescer profissionalmente. 
