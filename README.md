@@ -6,7 +6,7 @@
 
 
 
-![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=willim-DEV&show_icons=true&theme=dracula&count_private=true)
+![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=WilliamAppDev&show_icons=true&theme=dracula&count_private=true)
 
 ## Tecnologias que eu uso no meu dia
 
